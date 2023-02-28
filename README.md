@@ -28,6 +28,8 @@ Click the ```BED``` and ```MATRIX``` buttons to pop up the file dialog to obtain
  
  
  **Note**
+ 
+ 
  Here, we provide the test data, which is  a 20M segment of chromosome 10 from GM12878 cell line. Users can use the test data to verify that the software is running.
  ### Input of SV events
  Different types of SV require different input information.
